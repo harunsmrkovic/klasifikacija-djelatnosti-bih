@@ -75,7 +75,7 @@ B;VAĐENJE RUDA I KAMENA
 08;Vađenje ostalih ruda i kamena
 08.1;Vađenje kamena, pijeska i gline
 08.11;Vađenje ukrasnog kamena i kamena za gradnju, krečnjaka, gipsa, krede i škriljevca
-08.12;"Djelatnosti kopova šljunka i pijeska; vađenje gline i kaolina"
+08.12;Djelatnosti kopova šljunka i pijeska; vađenje gline i kaolina
 08.9;Vađenje ruda i kamena d. n.
 08.91;Vađenje minerala za proizvodnju hemikalije i prirodnih mineralnih gnojiva
 08.92;Vađenje treseta
@@ -108,8 +108,8 @@ C;PRERAĐIVAČKA INDUSTRIJA
 10.61;Proizvodnja mlinskih proizvoda
 10.62;Proizvodnja škroba i škrobnih proizvoda
 10.7;Proizvodnja pekarskih proizvoda, proizvoda od brašna i kolača
-10.71;"Proizvodnja hljeba; svježih peciva i kolača"
-10.72;"Proizvodnja dvopeka i keksa; proizvodnja trajnih peciva i kolača"
+10.71;Proizvodnja hljeba; svježih peciva i kolača
+10.72;Proizvodnja dvopeka i keksa; proizvodnja trajnih peciva i kolača
 10.73;Proizvodnja makarona, rezanaca, kuskusa i sličnih proizvoda od brašna
 10.8;Proizvodnja ostalih prehrambenih proizvoda
 10.81;Proizvodnja šećera
@@ -130,7 +130,7 @@ C;PRERAĐIVAČKA INDUSTRIJA
 11.04;Proizvodnja ostalih nedestiliranih fermentiranih pića
 11.05;Proizvodnja piva
 11.06;Proizvodnja slada
-11.07;"Proizvodnja osvježavajućih pića; proizvodnja mineralne vode i drugih flaširanih voda"
+11.07;Proizvodnja osvježavajućih pića; proizvodnja mineralne vode i drugih flaširanih voda
 12;Proizvodnja duhanskih proizvoda
 12.0;Proizvodnja duhanskih proizvoda
 12.00;Proizvodnja duhanskih proizvoda
@@ -162,14 +162,14 @@ C;PRERAĐIVAČKA INDUSTRIJA
 14.31;Proizvodnja pletenih i heklanih čarapa
 14.39;Proizvodnja ostale pletene i heklane odjeće
 15;Proizvodnja kože i srodnih proizvoda
-15.1;"Štavljenje i obrada kože; proizvodnja putnih i ručnih torbi, sedlarskih i kaišarskih proizvoda; dorada i bojenje krzna"
-15.11;"Štavljenje i obrada kože; dorada i bojenje krzna"
+15.1;Štavljenje i obrada kože; proizvodnja putnih i ručnih torbi, sedlarskih i kaišarskih proizvoda; dorada i bojenje krzna
+15.11;Štavljenje i obrada kože; dorada i bojenje krzna
 15.12;Proizvodnja putnih i ručnih torba i sličnih proizvoda, sedlarskih i kaišarskih proizvoda
 15.2;Proizvodnja obuće
 15.20;Proizvodnja obuće
-16;"Prerada drva i proizvoda od drva i pluta, osim namještaja; proizvodnja predmeta od slame i pletarskih materijala"
-16.1;"Piljenje i blanjanje drva  (proizvodnja  rezane građe); impregnacija drveta"
-16.10;"Piljenje  i  blanjanje  drva  (proizvodnja  rezane  građe); impregnacija drveta"
+16;Prerada drva i proizvoda od drva i pluta, osim namještaja; proizvodnja predmeta od slame i pletarskih materijala
+16.1;Piljenje i blanjanje drva  (proizvodnja  rezane građe); impregnacija drveta
+16.10;Piljenje  i  blanjanje  drva  (proizvodnja  rezane  građe); impregnacija drveta
 16.2;Proizvodnja proizvoda od drva, pluta, slame i pletarskih materijala
 16.21;Proizvodnja furnira i ostalih ploča od drva
 16.22;Proizvodnja sastavljenog parketa
@@ -229,7 +229,7 @@ C;PRERAĐIVAČKA INDUSTRIJA
 21.20;Proizvodnja farmaceutskih preparata
 22;Proizvodnja proizvoda od gume i plastičnih masa
 22.1;Proizvodnja proizvoda od gume
-22.11;"Proizvodnja vanjskih i unutrašnjih guma za vozila; protektiranje vanjskih guma za vozila"
+22.11;Proizvodnja vanjskih i unutrašnjih guma za vozila; protektiranje vanjskih guma za vozila
 22.19;Proizvodnja ostalih proizvoda od gume
 22.2;Proizvodnja proizvoda od plastičnih masa
 22.21;Proizvodnja ploča, listova, cijevi i profila od plastičnih masa
@@ -302,9 +302,9 @@ C;PRERAĐIVAČKA INDUSTRIJA
 25.30;Proizvodnja parnih kotlova, osim kotlova za centralno grijanje
 25.4;Proizvodnja oružja i municije
 25.40;Proizvodnja oružja i municije
-25.5;"Kovanje, presovanje, štancanje i valjanje metala; metalurgija praha"
-25.50;"Kovanje, presovanje, štancanje  i valjanje metala; metalurgija praha"
-25.6;"Površinska  obrada  i  prevlačenje  metala;  mašinska obrada metala"
+25.5;Kovanje, presovanje, štancanje i valjanje metala; metalurgija praha
+25.50;Kovanje, presovanje, štancanje  i valjanje metala; metalurgija praha
+25.6;Površinska  obrada  i  prevlačenje  metala;  mašinska obrada metala
 25.61;Površinska obrada i prevlačenje metala
 25.62;Mašinska obrada metala
 25.7;Proizvodnja  sječiva, alata  i  metalnih  proizvoda za opću namjenu
@@ -327,7 +327,7 @@ C;PRERAĐIVAČKA INDUSTRIJA
 26.30;Proizvodnja komunikacijske opreme
 26.4;Proizvodnja elektroničkih uređaja za široku potrošnju
 26.40;Proizvodnja elektroničkih uređaja za široku potrošnju
-26.5;"Proizvodnja instrumenata i aparata za mjerenje, ispitivanje i navođenje; proizvodnja satova"
+26.5;Proizvodnja instrumenata i aparata za mjerenje, ispitivanje i navođenje; proizvodnja satova
 26.51;Proizvodnja instrumenata i aparata za mjerenje, ispitivanje i navođenje
 26.52;Proizvodnja satova
 26.6;Proizvodnja  opreme  za  zračenje,  elektromedicinske  i elektroterapeutske opreme
@@ -383,8 +383,8 @@ C;PRERAĐIVAČKA INDUSTRIJA
 29;Proizvodnja motornih vozila, prikolica i poluprikolica
 29.1;Proizvodnja motornih vozila
 29.10;Proizvodnja motornih vozila
-29.2;"Proizvodnja karoserija za motorna  vozila; proizvodnja prikolica i poluprikolica"
-29.20;"Proizvodnja karoserija za motorna vozila; proizvodnja prikolica i poluprikolica"
+29.2;Proizvodnja karoserija za motorna  vozila; proizvodnja prikolica i poluprikolica
+29.20;Proizvodnja karoserija za motorna vozila; proizvodnja prikolica i poluprikolica
 29.3;Proizvodnja dijelova i pribora za motorna vozila
 29.31;Proizvodnja električne i elektroničke opreme za motorna vozila
 29.32;Proizvodnja ostalih dijelova i pribora za motorna vozila
@@ -443,20 +443,20 @@ D;PROIZVODNJA I SNABDIJEVANJE ELEKTRIČNOM ENERGIJOM, PLINOM, PAROM I KLIMATIZAC
 35.12;Prijenos električne energije
 35.13;Distribucija električne energije
 35.14;Trgovina električnom energijom
-35.2;"Proizvodnja plina; distribucija plinovitih goriva distribucijskom mrežom"
+35.2;Proizvodnja plina; distribucija plinovitih goriva distribucijskom mrežom
 35.21;Proizvodnja plina
 35.22;Distribucija plinovitih goriva distribucijskom mrežom
 35.23;Trgovina plinom distribucijskom mrežom
 35.3;Proizvodnja i snabdijevanje parom i klimatizacija
 35.30;Proizvodnja i snabdijevanje parom i klimatizacija
-E;"SNABDIJEVANJE  VODOM;  UKLANJANJE  OTPADNIH  VODA, UPRAVLJANJE OTPADOM TE DJELATNOSTI SANACIJE OKOLIŠA"
+E;SNABDIJEVANJE  VODOM;  UKLANJANJE  OTPADNIH  VODA, UPRAVLJANJE OTPADOM TE DJELATNOSTI SANACIJE OKOLIŠA
 36;Sakupljanje, pročišćavanje i snabdijevanje vodom
 36.0;Sakupljanje, pročišćavanje i snabdijevanje vodom
 36.00;Sakupljanje, pročišćavanje i snabdijevanje vodom
 37;Uklanjanje otpadnih voda
 37.0;Uklanjanje otpadnih voda
 37.00;Uklanjanje otpadnih voda
-38;"Sakupljanje otpada, djelatnosti obrade i zbrinjavanja otpada; reciklaža materijala"
+38;Sakupljanje otpada, djelatnosti obrade i zbrinjavanja otpada; reciklaža materijala
 38.1;Sakupljanje otpada
 38.11;Sakupljanje neopasnog otpada
 38.12;Sakupljanje opasnog otpada
@@ -504,8 +504,8 @@ F;GRAĐEVINARSTVO
 43.9;Ostale specijalizirane građevinske djelatnosti
 43.91;Podizanje krovnih konstrukcija i pokrivanje krovova
 43.99;Ostale specijalizirane građevinske djelatnosti, d. n.
-G;"TRGOVINA NA VELIKO I NA MALO; POPRAVAK MOTORNIH VOZILA I MOTOCIKALA"
-45;"Trgovina na veliko i na malo motornim vozilima i motociklima; popravak motornih vozila i motocikala"
+G;TRGOVINA NA VELIKO I NA MALO; POPRAVAK MOTORNIH VOZILA I MOTOCIKALA
+45;Trgovina na veliko i na malo motornim vozilima i motociklima; popravak motornih vozila i motocikala
 45.1;Trgovina motornim vozilima
 45.11;Trgovina automobilima i motornim vozilima lake kategorije
 45.19;Trgovina ostalim motornim vozilima
@@ -722,7 +722,7 @@ J;INFORMACIJE I KOMUNIKACIJE
 62.03;Upravljanje računarskom opremom i sistemom
 62.09;Ostale uslužne djelatnosti u vezi s informacijskom tehnologijom i računarima
 63;Informacijske uslužne djelatnosti
-63.1;"Obrada podataka, usluge hostinga i djelatnosti u vezi s njima; internetski portali"
+63.1;Obrada podataka, usluge hostinga i djelatnosti u vezi s njima; internetski portali
 63.11;Obrada podataka, usluge hostinga i djelatnosti u vezi s njima
 63.12;Internetski portali
 63.9;Ostale informacijske uslužne djelatnosti
@@ -773,15 +773,15 @@ M;STRUČNE, NAUČNE I TEHNIČKE DJELATNOSTI
 69;Pravne i računovodstvene djelatnosti
 69.1;Pravne djelatnosti
 69.10;Pravne djelatnosti
-69.2;"Računovodstvene,  knjigovodstvene i  revizijske  djelatnosti; porezno savjetovanje"
-69.20;"Računovodstvene, knjigovodstvene i revizijske djelatnosti; porezno savjetovanje"
-70;"Upravljačke djelatnosti; savjetovanje u vezi s upravljanjem"
+69.2;Računovodstvene,  knjigovodstvene i  revizijske  djelatnosti; porezno savjetovanje
+69.20;Računovodstvene, knjigovodstvene i revizijske djelatnosti; porezno savjetovanje
+70;Upravljačke djelatnosti; savjetovanje u vezi s upravljanjem
 70.1;Upravljačke djelatnosti
 70.10;Upravljačke djelatnosti
 70.2;Savjetovanje u vezi s upravljanjem
 70.21;Odnosi s javnošću i djelatnosti saopćavanja
 70.22;Savjetovanje u vezi s poslovanjem i ostalim upravljanjem
-71;"Arhitektonske i inžinjerske djelatnosti; tehničko ispitivanje i analiza"
+71;Arhitektonske i inžinjerske djelatnosti; tehničko ispitivanje i analiza
 71.1;Arhitektonske i inžinjerske djelatnosti i s njima povezano tehničko savjetovanje
 71.11;Arhitektonske djelatnosti
 71.12;Inžinjerske djelatnosti i s njima povezano tehničko savjetovanje
@@ -870,8 +870,8 @@ N;ADMINISTRATIVNE I POMOĆNE USLUŽNE DJELATNOSTI
 82.91;Djelatnosti agencija za prikupljanje i naplatu računa te kreditnih kancelarija
 82.92;Djelatnosti pakovanja
 82.99;Ostale poslovne pomoćne uslužne djelatnosti, d. n.
-O;"JAVNA UPRAVA I ODBRANA; OBAVEZNO SOCIJALNO OSIGURANJE"
-84;"Javna uprava i odbrana; obavezno socijalno osiguranje"
+O;JAVNA UPRAVA I ODBRANA; OBAVEZNO SOCIJALNO OSIGURANJE
+84;Javna uprava i odbrana; obavezno socijalno osiguranje
 84.1;Javna uprava te ekonomska i socijalna politika zajednice
 84.11;Opće djelatnosti javne uprave
 84.12;Reguliranje djelatnosti javnih subjekata koji pružaju zdravstvenu zaštitu, usluge u obrazovanju i kulturi i druge društvene usluge, osim obaveznog socijalnog osiguranja
@@ -982,7 +982,7 @@ S;OSTALE USLUŽNE DJELATNOSTI
 96.03;Pogrebne i srodne djelatnosti
 96.04;Djelatnosti za njegu i održavanje tijela
 96.09;Ostale lične uslužne djelatnosti, d. n.
-T;"DJELATNOSTI DOMAĆINSTAVA KAO POSLODAVACA; DJELATNOSTI DOMAĆINSTAVA KOJA PROIZVODE RAZLIČITA DOBRA  I OBAVLJAJU RAZLIČITE USLUGE ZA VLASTITE POTREBE"
+T;DJELATNOSTI DOMAĆINSTAVA KAO POSLODAVACA; DJELATNOSTI DOMAĆINSTAVA KOJA PROIZVODE RAZLIČITA DOBRA  I OBAVLJAJU RAZLIČITE USLUGE ZA VLASTITE POTREBE
 97;Djelatnosti  domaćinstava kao poslodavaca koji zapošljavaju poslugu
 97.0;Djelatnosti domaćinstava kao poslodavaca koji zapošljavaju poslugu
 97.00;Djelatnosti  domaćinstava  kao  poslodavaca koji zapošljavaju poslugu
