@@ -75,7 +75,7 @@ B,VAĐENJE RUDA I KAMENA
 08,Vađenje ostalih ruda i kamena
 08.1,"Vađenje kamena, pijeska i gline"
 08.11,"Vađenje ukrasnog kamena i kamena za gradnju, krečnjaka, gipsa, krede i škriljevca"
-08.12,Djelatnosti kopova šljunka i pijeska," vađenje gline i kaolina"
+08.12,"Djelatnosti kopova šljunka i pijeska, vađenje gline i kaolina"
 08.9,Vađenje ruda i kamena d. n.
 08.91,Vađenje minerala za proizvodnju hemikalije i prirodnih mineralnih gnojiva
 08.92,Vađenje treseta
@@ -108,8 +108,8 @@ C,PRERAĐIVAČKA INDUSTRIJA
 10.61,Proizvodnja mlinskih proizvoda
 10.62,Proizvodnja škroba i škrobnih proizvoda
 10.7,"Proizvodnja pekarskih proizvoda, proizvoda od brašna i kolača"
-10.71,Proizvodnja hljeba," svježih peciva i kolača"
-10.72,Proizvodnja dvopeka i keksa," proizvodnja trajnih peciva i kolača"
+10.71,"Proizvodnja hljeba, svježih peciva i kolača"
+10.72,"Proizvodnja dvopeka i keksa, proizvodnja trajnih peciva i kolača"
 10.73,"Proizvodnja makarona, rezanaca, kuskusa i sličnih proizvoda od brašna"
 10.8,Proizvodnja ostalih prehrambenih proizvoda
 10.81,Proizvodnja šećera
@@ -130,7 +130,7 @@ C,PRERAĐIVAČKA INDUSTRIJA
 11.04,Proizvodnja ostalih nedestiliranih fermentiranih pića
 11.05,Proizvodnja piva
 11.06,Proizvodnja slada
-11.07,Proizvodnja osvježavajućih pića," proizvodnja mineralne vode i drugih flaširanih voda"
+11.07,"Proizvodnja osvježavajućih pića, proizvodnja mineralne vode i drugih flaširanih voda"
 12,Proizvodnja duhanskih proizvoda
 12.0,Proizvodnja duhanskih proizvoda
 12.00,Proizvodnja duhanskih proizvoda
@@ -162,14 +162,14 @@ C,PRERAĐIVAČKA INDUSTRIJA
 14.31,Proizvodnja pletenih i heklanih čarapa
 14.39,Proizvodnja ostale pletene i heklane odjeće
 15,Proizvodnja kože i srodnih proizvoda
-15.1,Štavljenje i obrada kože," proizvodnja putnih i ručnih torbi, sedlarskih i kaišarskih proizvoda"," dorada i bojenje krzna"
-15.11,Štavljenje i obrada kože," dorada i bojenje krzna"
+15.1,"Štavljenje i obrada kože, proizvodnja putnih i ručnih torbi, sedlarskih i kaišarskih proizvoda, dorada i bojenje krzna"
+15.11,"Štavljenje i obrada kože, dorada i bojenje krzna"
 15.12,"Proizvodnja putnih i ručnih torba i sličnih proizvoda, sedlarskih i kaišarskih proizvoda"
 15.2,Proizvodnja obuće
 15.20,Proizvodnja obuće
-16,"Prerada drva i proizvoda od drva i pluta, osim namještaja"," proizvodnja predmeta od slame i pletarskih materijala"
-16.1,Piljenje i blanjanje drva  (proizvodnja  rezane građe)," impregnacija drveta"
-16.10,Piljenje  i  blanjanje  drva  (proizvodnja  rezane  građe)," impregnacija drveta"
+16,"Prerada drva i proizvoda od drva i pluta, osim namještaja, proizvodnja predmeta od slame i pletarskih materijala"
+16.1,"Piljenje i blanjanje drva  (proizvodnja  rezane građe), impregnacija drveta"
+16.10,"Piljenje  i  blanjanje  drva  (proizvodnja  rezane  građe), impregnacija drveta"
 16.2,"Proizvodnja proizvoda od drva, pluta, slame i pletarskih materijala"
 16.21,Proizvodnja furnira i ostalih ploča od drva
 16.22,Proizvodnja sastavljenog parketa
@@ -229,7 +229,7 @@ C,PRERAĐIVAČKA INDUSTRIJA
 21.20,Proizvodnja farmaceutskih preparata
 22,Proizvodnja proizvoda od gume i plastičnih masa
 22.1,Proizvodnja proizvoda od gume
-22.11,Proizvodnja vanjskih i unutrašnjih guma za vozila," protektiranje vanjskih guma za vozila"
+22.11,"Proizvodnja vanjskih i unutrašnjih guma za vozila, protektiranje vanjskih guma za vozila"
 22.19,Proizvodnja ostalih proizvoda od gume
 22.2,Proizvodnja proizvoda od plastičnih masa
 22.21,"Proizvodnja ploča, listova, cijevi i profila od plastičnih masa"
